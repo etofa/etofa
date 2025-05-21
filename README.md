@@ -81,10 +81,10 @@ We love working with:
 > 📱 Instagram: `@etofa_technologies`  
 > 🧠 Powered by: **Right Path Media** | *Tech with Taqwa*
 > https://etofatechnologies.com
-@etofatechnologs
-ETOFATECHNOLOGIES
-etofa_technologies
-company/etofatechnologies
+> @etofatechnologs
+> ETOFATECHNOLOGIES
+> etofa_technologies
+> company/etofatechnologies
 
 ---
 
